@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentLab</string>
+    <string name="reply">Reply</string>
+    <string name="enter_a_message">Enter a message</string>
+    <string name="send">Send</string>
+    <string name="error_message">Please enter a message</string>
+    <string name="message">Message</string>
+    <string name="enter_a_reply">Enter a reply</string>
+    <string name="error_reply">Please enter a reply</string>
+    <string name="close">Close</string>
+    <string name="reply_message">Reply Message</string>
+</resources>
